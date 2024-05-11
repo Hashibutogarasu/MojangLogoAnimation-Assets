@@ -1,4 +1,6 @@
 {
   "text.autoconfig.mla.title": "Mojang Logo Animation Config",
-  "text.autoconfig.mla.option.mode": "モード"
+  "text.autoconfig.mla.option.mode": "モード",
+  "text.mla.button.cancel": "キャンセル",
+  "text.mla.button.done": "完了"
 }
