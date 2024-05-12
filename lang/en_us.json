@@ -2,5 +2,8 @@
   "text.autoconfig.mla.title": "Mojang Logo Animation Config",
   "text.autoconfig.mla.option.mode": "Mode",
   "text.mla.button.cancel": "Cancel",
-  "text.mla.button.done": "Done"
+  "text.mla.button.done": "Done",
+  "mla.configscreen.modecycle.text": "Mode",
+  "mla.mode.mojang": "Mojang",
+  "mla.mode.april_fool": "April Fool"
 }
