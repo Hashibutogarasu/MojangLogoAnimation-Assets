@@ -5,5 +5,6 @@
   "text.mla.button.done": "Done",
   "mla.configscreen.modecycle.text": "Mode",
   "mla.mode.mojang": "Mojang",
-  "mla.mode.april_fool": "April Fool"
+  "mla.mode.april_fool": "April Fool",
+  "mla.configscreen.preview.text": "Preview"
 }
